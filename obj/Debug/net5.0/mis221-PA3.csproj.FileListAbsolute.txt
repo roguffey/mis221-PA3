@@ -1,0 +1,16 @@
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\bin\Debug\net5.0\mis221-PA3.exe
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\bin\Debug\net5.0\mis221-PA3.deps.json
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\bin\Debug\net5.0\mis221-PA3.runtimeconfig.json
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\bin\Debug\net5.0\mis221-PA3.runtimeconfig.dev.json
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\bin\Debug\net5.0\mis221-PA3.dll
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\bin\Debug\net5.0\ref\mis221-PA3.dll
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\bin\Debug\net5.0\mis221-PA3.pdb
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\obj\Debug\net5.0\mis221-PA3.csproj.AssemblyReference.cache
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\obj\Debug\net5.0\mis221-PA3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\obj\Debug\net5.0\mis221-PA3.AssemblyInfoInputs.cache
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\obj\Debug\net5.0\mis221-PA3.AssemblyInfo.cs
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\obj\Debug\net5.0\mis221-PA3.csproj.CoreCompileInputs.cache
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\obj\Debug\net5.0\mis221-PA3.dll
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\obj\Debug\net5.0\ref\mis221-PA3.dll
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\obj\Debug\net5.0\mis221-PA3.pdb
+C:\Users\Reidg\OneDrive\Desktop\source\repos\mis221-PA3\obj\Debug\net5.0\mis221-PA3.genruntimeconfig.cache
